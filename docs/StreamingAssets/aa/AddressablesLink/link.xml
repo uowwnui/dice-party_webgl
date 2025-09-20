@@ -28,6 +28,7 @@
     <type fullname="Game.RouletteItemUI" preserve="all" />
     <type fullname="Game.RouletteLogic" preserve="all" />
     <type fullname="Game.RouletteUI" preserve="all" />
+    <type fullname="Game.ScreenShotter.ScreenShotter" preserve="all" />
     <type fullname="Game.ThoughtBubble" preserve="all" />
     <type fullname="Game.ThoughtBubbleManager" preserve="all" />
     <type fullname="Game.UI.Views.PlayerBage.UIPlayerBageManagerView" preserve="all" />
@@ -97,7 +98,6 @@
   </assembly>
   <assembly fullname="GameCommon, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Game.AtlasConfig" preserve="all" />
-    <type fullname="Game.ScreenShotter.ScreenShotter" preserve="all" />
     <type fullname="Game.Utilities.VFX.VfxBootstrap" preserve="all" />
     <type fullname="Game.Utilities.VFX.VfxManager" preserve="all" />
     <type fullname="Game.Utilities.VFX.VfxPrewarmProfile" preserve="all" />
@@ -181,6 +181,7 @@
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
